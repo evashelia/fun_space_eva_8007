@@ -6,4 +6,12 @@ def luas_segitiga():
     print("Luas segitiga adalah : ", luas)
 
 luas_segitiga()
-#tambahan
+
+#hitung luas persegi panjang
+def luas_persegi_panjang():
+    p = int(input("Masukkan panjang persegi: "))
+    l = int(input("Masukkan lebar persegi: "))
+    luas = p * l
+    print("Luas Persegi Adalah: ", luas)
+
+luas_persegi_panjang()
