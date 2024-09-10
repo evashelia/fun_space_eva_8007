@@ -17,3 +17,5 @@ def luas_persegi_panjang():
 luas_persegi_panjang()
 
 #tak rubah
+
+#ketiga
